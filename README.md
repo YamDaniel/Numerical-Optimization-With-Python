@@ -1,1 +1,1 @@
-# Numerical-Optimization-With-Python
+# Numerical-Optimization
